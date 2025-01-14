@@ -1,4 +1,4 @@
-# SGD_demonstration
+# Network Training Simulation
  
 This project provides a GUI to demonstrate the various Stochastic Gradient Descent (SGD) algorithms used in training neural networks. It was awarded Gold Prize in Undergraduate Research Opportunities Program (UROP) at the Chinese University of Hong Kong (CUHK) and hence publicly used in sharing seminars at CUHK.
 
