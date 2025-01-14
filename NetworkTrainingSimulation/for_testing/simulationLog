@@ -1,0 +1,12 @@
+Error using trainNetwork
+Deployment of training progress plot not supported.
+
+Error in AlgGui/TrainButtonPushed (line 719)
+
+Error in appdesigner.internal.service.AppManagementService/executeCallback (line 138)
+
+Error in matlab.apps.AppBase>@(source,event)executeCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event) (line 63)
+
+Error using matlab.ui.control.internal.controller.ComponentController/executeUserCallback
+Error while evaluating Button PrivateButtonPushedFcn.
+

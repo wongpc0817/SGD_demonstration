@@ -1,0 +1,2 @@
+Training Samples,Testing Samples,Model,Recognition Algorithm,Hidden Layer Neurons,No. of Epoches,Training Time(sec),Avg. System Accuracy(%),Precesion(%),Recall(%),F1score(%)
+5246,2248,MLP,SGD,20  20,1000,5.3043,100.00,100.00,100.00,100.00
